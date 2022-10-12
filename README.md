@@ -9,7 +9,7 @@ On this marketplace you can make offers and listings of ERC721 Tokens on the cha
 clone this repo
 
 ```
-git clone https://github.com/lunatic-games-studio/interactive-nft-marketplace.git
+git clone https://github.com/nft2point0/interactive-nft-marketplace.git
 ```
 
 Install it and run:
